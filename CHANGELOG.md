@@ -1,5 +1,5 @@
 
- * Upgrade support to OpenCV 3.0.0-beta
+ * Upgrade support to OpenCV 3.0.0-rc1
  * Switch descriptor used by `ObjectFinder` from SURF to AKAZE
  * Add check for supported display size in the `RecordActivity` sample ([pull #153](https://github.com/bytedeco/javacv/pull/153))
  * Clarify the semantics of `FrameConverter` ([issue #150](https://github.com/bytedeco/javacv/issues/150))
